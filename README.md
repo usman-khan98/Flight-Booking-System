@@ -1,5 +1,25 @@
 # Flight-Booking-System
 
+Instructions:
+
+1. Install wamp server
+2. Copy the project folder into the www folder in wamp install directory
+3. launch wamp server and start all services
+4. open phpmyadmin from wamp server icon.
+5. login to phpmyadmin using credentials:
+	username: root
+	password: admin
+6. create a new database and name it airline2.sql
+7. import airline2.sql file using the import tab in phpmyadmin
+8. launch the project on url: http://localhost/Flight-Booking-System-main/Air%20Price/homepage.html
+
+
+
+
+
+
+
+
 
 
 Introduction:
